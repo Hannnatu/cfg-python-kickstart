@@ -95,14 +95,14 @@ fruits.extend(["apricot", "nectarine"])#adds more than one items to the liist
 print(fruits)
 
 #removing items on the list
-#fruits.pop() #removes last item on the list
-#print(fruits)
+fruits.pop() #removes last item on the list
+print(fruits)
 
-#fruits.remove("kiwi") #removes first occurence of this item
-#print(fruits)
+fruits.remove("kiwi") #removes first occurence of this item
+print(fruits)
 
-#fruits.clear() #removes all items from list 
-#print(fruits)
+fruits.clear() #removes all items from list 
+print(fruits)
 
 
 #replacing items in a list
